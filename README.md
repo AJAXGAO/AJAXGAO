@@ -17,7 +17,7 @@
 ## Languages 
 <div align="center">
   <a href="https://r-project.org"><img src="https://www.r-project.org/Rlogo.png" height="60"></a>
-  <a href="https://isocpp.org"><img src="https://isocpp.org/assets/images/cpp_logo.png"height="60"></a>
+  <a href="https://isocpp.org"><img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="60"></a>
 </div>
 
 ## Connect with Me
